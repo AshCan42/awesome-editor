@@ -1,0 +1,28 @@
+.container {
+  
+}
+
+.editor {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-family: 'Cambria';
+  border: 1px solid black;
+  padding: 6px;
+  width: 500px;
+}
+
+li.selected {
+  background-color: #db4c3f;
+  color: #EEE;
+}
+
+span.filling {
+  color: #db4c3f;
+}
+
+span.submitted {
+  border-radius: 5px;
+  padding: 0px 3px;
+  background-color: #db4c3f;
+  color: #EEE;
+}

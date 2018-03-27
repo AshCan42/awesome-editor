@@ -1,0 +1,19 @@
+.panel {
+    position: absolute;
+    width: max-content;
+    background-color: #EEE;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    border: 1px solid #CCC;
+    border-radius: 3;
+    z-index: 10;
+}
+
+.panel ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.panel ul li {
+    padding: 5px;
+}
